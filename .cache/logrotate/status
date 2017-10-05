@@ -1,0 +1,26 @@
+logrotate state -- version 2
+"/home/user/.cache/upstart/unity7.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/indicator-sound.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/window-stack-bridge.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/update-notifier-crash-_var_crash__lib_systemd_systemd-udevd.0.crash.log" 2017-7-15-2:59:41
+"/home/user/.cache/upstart/indicator-printers.log" 2017-8-8-0:48:39
+"/home/user/.cache/upstart/bamfdaemon.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/dbus.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/indicator-session.log" 2017-7-15-0:29:58
+"/home/user/.cache/upstart/*.log" 2017-7-8-0:0:0
+"/home/user/.cache/upstart/im-config.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/hud.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_apt_apt-helper.0.crash.log" 2017-6-3-4:59:58
+"/home/user/.cache/upstart/gnome-keyring-ssh.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_python2.7_dist-packages_youker-assistant-daemon_src_start_sessiondbus.py.1000.crash.log" 2017-6-23-23:8:54
+"/home/user/.cache/upstart/update-notifier-release.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_python2.7.0.crash.log" 2017-8-8-0:48:39
+"/home/user/.cache/upstart/unity-panel-service.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/unity-settings-daemon.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/update-notifier-crash-_var_crash__lib_systemd_systemd-journald.0.crash.log" 2017-7-8-0:22:18
+"/home/user/.cache/upstart/ssh-agent.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/indicator-keyboard.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/upstart-event-bridge.log" 2017-10-5-6:52:13
+"/home/user/.cache/upstart/unicast-local-avahi.log" 2017-10-5-2:21:40
+"/home/user/.cache/upstart/update-notifier-cds.log" 2017-6-24-1:2:9
+"/home/user/.cache/upstart/gpg-agent.log" 2017-10-5-6:52:13
